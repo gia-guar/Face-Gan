@@ -57,7 +57,10 @@ Initial Random Input: *more uniform*
 ![generated_img_7_0](https://user-images.githubusercontent.com/49094051/193403397-dc98ad2a-059b-4c87-b350-8e86112cdc60.png)
 ![generated_img_2_0](https://user-images.githubusercontent.com/49094051/193403710-ced6974b-3db0-40e8-9ff2-b46aa95c090d.png)
 
-1000 epochs: *still training*
+1000 epochs:<br>
+![generated_img_32_0](https://user-images.githubusercontent.com/49094051/193418022-6eea7d42-b450-41b3-8bb1-3f606af4e126.png)
+![generated_img_21_0](https://user-images.githubusercontent.com/49094051/193418023-88571059-62c9-43a7-8e9d-81b5ac665701.png)
+![generated_img_61_0](https://user-images.githubusercontent.com/49094051/193418024-5ac5a729-b2db-4068-ba68-3dcac4825727.png)
 
 many more epochs: *still training...*
 
