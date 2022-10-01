@@ -62,8 +62,17 @@ Initial Random Input: *more uniform*
 ![generated_img_21_0](https://user-images.githubusercontent.com/49094051/193418023-88571059-62c9-43a7-8e9d-81b5ac665701.png)
 ![generated_img_61_0](https://user-images.githubusercontent.com/49094051/193418024-5ac5a729-b2db-4068-ba68-3dcac4825727.png)
 
-many more epochs: *still training...*
+many more epochs: <br>
+![generated_img_19_0](https://user-images.githubusercontent.com/49094051/193428705-44a4836e-1194-4904-a93a-1a0ffc60a1dc.png)
+![generated_img_93_0](https://user-images.githubusercontent.com/49094051/193428706-729e82fd-5cdd-48f8-8de9-36057793f0ed.png)
+![generated_img_94_0](https://user-images.githubusercontent.com/49094051/193428707-7bff618e-0041-4177-a967-762a6c0ecaa7.png)
+
 
 ## OBSERVATIONS
-- gan 1 doesn't seem to be able to converge even after days of training. This may be due to the size of the dataset
-- 
+- both GANSs doesn't seem to be able to converge even after days of training. This may be due to the size of the dataset
+- gan 1 permorms overall better 
+- the generator can't generalize different faces, only one. This means that the input noise should have bigger dimension (*not sure, investivage*)
+
+## TO DO LIST
+- try with bigger dataset available at https://drive.google.com/drive/folders/1-5oQoEdAecNTFr8zLk5sUUvrEUN4WHXa
+- explore different architectures
