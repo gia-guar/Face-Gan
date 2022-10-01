@@ -1,6 +1,11 @@
 # Face-Gan
 First attempt with generative adversarial networks! 
 
+:warning: COMMENT :warning: these lines in GAN1 notebook if you intend to run it for the firs time!<br>
+*generator = load_model(os.path.join('models','face_generator.h5'))*<br>
+*discriminator = load_model(os.path.join('models','face_discriminator.h5'))*
+these lines are made to train the model in different sessions 
+
 I've been having some fun with open-source Kaggle dataset recently. You can find it here: https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset <br>
 some examples:<br>
 ![33](https://user-images.githubusercontent.com/49094051/193403879-1ccab13e-9005-4e0c-bbef-5e9c50ec5112.jpg)
