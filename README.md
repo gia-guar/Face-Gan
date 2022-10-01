@@ -38,10 +38,11 @@ many more epochs: (best results) <br>
 Initial Random Input: *more uniform* 
 ![transpose](https://user-images.githubusercontent.com/49094051/193403255-bbea3c81-e01a-4e62-b31a-3e5406099b06.png)
 
-100 epochs:
+100 epochs:<br>
 ![generated_img_98_0](https://user-images.githubusercontent.com/49094051/193403387-221ada17-f159-4351-ac44-1cafb73960da.png)
 ![generated_img_7_0](https://user-images.githubusercontent.com/49094051/193403397-dc98ad2a-059b-4c87-b350-8e86112cdc60.png)
+![generated_img_2_0](https://user-images.githubusercontent.com/49094051/193403710-ced6974b-3db0-40e8-9ff2-b46aa95c090d.png)
 
-1000 epochs: *still training...*
+1000 epochs: *still training*
 
 many more epochs: *still training...*
