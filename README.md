@@ -1,7 +1,16 @@
 # Face-Gan
 First attempt with generative adversarial networks! 
 
-I've been having some fun with open-source Kaggle dataset recently. You can find it here https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
+I've been having some fun with open-source Kaggle dataset recently. You can find it here: https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset <br>
+some examples:<br>
+![33](https://user-images.githubusercontent.com/49094051/193403879-1ccab13e-9005-4e0c-bbef-5e9c50ec5112.jpg)
+![4](https://user-images.githubusercontent.com/49094051/193403891-720cf792-929d-4b17-9369-530476395d89.jpg)
+![1907](https://user-images.githubusercontent.com/49094051/193403909-251536d6-7755-4466-ba92-e7bcf5fc94bd.jpg)
+![317](https://user-images.githubusercontent.com/49094051/193403929-7eee066b-9ba6-451c-9c93-6d262c3bc59a.jpg)
+![1112](https://user-images.githubusercontent.com/49094051/193403933-b8745056-16e1-4d0d-bf81-32824aef1e3b.jpg)
+![2787](https://user-images.githubusercontent.com/49094051/193403940-4502852f-7ad3-471d-ae88-4f77750dd12f.jpg)
+![9366](https://user-images.githubusercontent.com/49094051/193403945-bfb5c4c9-c82d-41d4-a361-41863d04464e.jpg)
+![34](https://user-images.githubusercontent.com/49094051/193403959-cc5d7de4-6c01-4a1c-9ca0-d788d2108c5d.jpg)
 
 Although the dataset is ""small"" a gan still made some decent results! Not photorealistic but more like 'WWI black and white' style. 
 
@@ -46,3 +55,7 @@ Initial Random Input: *more uniform*
 1000 epochs: *still training*
 
 many more epochs: *still training...*
+
+## OBSERVATIONS
+- gan 1 doesn't seem to be able to converge even after days of training. This may be due to the size of the dataset
+- 
