@@ -76,3 +76,20 @@ many more epochs: <br>
 ## TO DO LIST
 - try with bigger dataset available at https://drive.google.com/drive/folders/1-5oQoEdAecNTFr8zLk5sUUvrEUN4WHXa
 - explore different architectures
+- Manage a way to handle bigger size images without buying a new GPU (OOM problem)
+
+
+# 3/10/2022 UPDATE
+After having tried with a different dataset (30 k faces from FFHQ dataset) mentioned above the imporvements were astonishing. I'm happy to share some results below. 
+
+![generated_img_43_1](https://user-images.githubusercontent.com/49094051/193564425-7a1f8c31-e835-4426-a063-550c1e7aa256.png)
+![generated_img_45_2](https://user-images.githubusercontent.com/49094051/193564427-007df028-e275-4d29-9d8f-1c641a9218ad.png)
+![generated_img_47_0](https://user-images.githubusercontent.com/49094051/193564428-4ce10fe6-d1d1-4c9a-b80f-3da6a44e8439.png)
+![generated_img_48_2](https://user-images.githubusercontent.com/49094051/193564429-12968501-32f5-488e-a528-ef7e523ef025.png)
+![generated_img_13_1](https://user-images.githubusercontent.com/49094051/193564431-ce70a5dc-d904-4982-aa30-d009970f8ef5.png)
+![generated_img_15_0](https://user-images.githubusercontent.com/49094051/193564432-549cef74-1229-4710-9f2b-e3776d78a450.png)
+![generated_img_22_2](https://user-images.githubusercontent.com/49094051/193564436-e8933452-9084-4975-aaa0-7be57d1477be.png)
+![generated_img_44_1](https://user-images.githubusercontent.com/49094051/193564449-52d4a08b-3cc0-4414-895c-291fc82f872e.png)
+<br>
+<br>
+*...currently working of dataset expansion up to 50 k items*
