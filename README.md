@@ -90,6 +90,15 @@ After having tried with a different dataset (30 k faces from FFHQ dataset) menti
 ![generated_img_15_0](https://user-images.githubusercontent.com/49094051/193564432-549cef74-1229-4710-9f2b-e3776d78a450.png)
 ![generated_img_22_2](https://user-images.githubusercontent.com/49094051/193564436-e8933452-9084-4975-aaa0-7be57d1477be.png)
 ![generated_img_44_1](https://user-images.githubusercontent.com/49094051/193564449-52d4a08b-3cc0-4414-895c-291fc82f872e.png)
+
+<br> some more training...<br>
+![generated_img_49_1](https://user-images.githubusercontent.com/49094051/193757621-7970eb29-9352-4602-8ab3-52bc6093fedf.png)
+![generated_img_56_1](https://user-images.githubusercontent.com/49094051/193757649-5f429c5b-61f0-4298-9e45-afc6f02f7787.png)
+![generated_img_68_0](https://user-images.githubusercontent.com/49094051/193757659-c14554e9-7c7c-46ec-a945-3a0aecc2f604.png)
+![generated_img_14_0](https://user-images.githubusercontent.com/49094051/193757692-979be3fc-d7cf-4216-827c-6263b69b0202.png)
+![generated_img_69_0](https://user-images.githubusercontent.com/49094051/193757713-29f775f8-0d99-4550-94ca-74705e32854d.png)
+![generated_img_66_2](https://user-images.githubusercontent.com/49094051/193757728-84c4dd16-56d7-431a-9337-58a739a0ac52.png)
 <br>
 <br>
-*...currently working of dataset expansion up to 50 k items*
+*...currently working of dataset expansion up to 100 k items*
+
