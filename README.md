@@ -74,9 +74,9 @@ many more epochs: <br>
 - the generator can't generalize different faces, only one. This means that the input noise should have bigger dimension (*not sure, investivage*)
 
 ## TO DO LIST
-- try with bigger dataset available at https://drive.google.com/drive/folders/1-5oQoEdAecNTFr8zLk5sUUvrEUN4WHXa
-- explore different architectures
-- Manage a way to handle bigger size images without buying a new GPU (OOM problem)
+- [x] try with bigger dataset available at https://drive.google.com/drive/folders/1-5oQoEdAecNTFr8zLk5sUUvrEUN4WHXa
+- [ ] explore different architectures
+- [ ] Manage a way to handle bigger size images without buying a new GPU (OOM problem)
 
 
 # 3/10/2022 UPDATE
@@ -98,7 +98,3 @@ After having tried with a different dataset (30 k faces from FFHQ dataset) menti
 ![generated_img_14_0](https://user-images.githubusercontent.com/49094051/193757692-979be3fc-d7cf-4216-827c-6263b69b0202.png)
 ![generated_img_69_0](https://user-images.githubusercontent.com/49094051/193757713-29f775f8-0d99-4550-94ca-74705e32854d.png)
 ![generated_img_66_2](https://user-images.githubusercontent.com/49094051/193757728-84c4dd16-56d7-431a-9337-58a739a0ac52.png)
-<br>
-<br>
-*...currently working of dataset expansion up to 100 k items*
-
