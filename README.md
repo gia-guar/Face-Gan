@@ -23,7 +23,7 @@ I'm testing different generative architectures, one using keras layer UpSampling
 
 Here's the difference:<br><br>
 ## GAN 1 (Upsapling2D):
-Initial Random Input: *very gaussian*
+Initial Random Input:
 ![upsampling](https://user-images.githubusercontent.com/49094051/193403332-16958b10-55a8-4bf5-9978-00907191030e.PNG)
 
 training progress:<br>
@@ -49,7 +49,7 @@ many more epochs: (best results) <br>
 ![generated_img_10_0](https://user-images.githubusercontent.com/49094051/193403181-ba15fa7a-a69f-4d6c-bad1-970275923f6d.png)
 
 ## GAN 2 (Conv2DTranspose): 
-Initial Random Input: *more uniform* 
+Initial Random Input:
 ![transpose](https://user-images.githubusercontent.com/49094051/193403255-bbea3c81-e01a-4e62-b31a-3e5406099b06.png)
 
 100 epochs:<br>
@@ -69,9 +69,8 @@ many more epochs: <br>
 
 
 ## OBSERVATIONS
-- both GANSs doesn't seem to be able to converge even after days of training. This may be due to the size of the dataset
+- both GANSs don't seem to be able to converge even after days of training. This may be due to the size of the dataset
 - gan 1 permorms overall better 
-- the generator can't generalize different faces, only one. This means that the input noise should have bigger dimension (*not sure, investivage*)
 
 ## TO DO LIST
 - [x] try with bigger dataset available at https://drive.google.com/drive/folders/1-5oQoEdAecNTFr8zLk5sUUvrEUN4WHXa
